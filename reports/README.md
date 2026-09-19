@@ -1,4 +1,3 @@
-# apexplanet-task-2-sql
 # ApexPlanet Task 2: SQL for Data Extraction
 
 ## Objective
